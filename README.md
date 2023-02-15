@@ -1,6 +1,6 @@
 # Othello-CSharp
 This project illustrates the Othello game - a board game invented in 1880.
-It is constructed in an OOP architecture, with a seperation between UI and logic.
+It is constructed with WinForms in an OOP architecture, with a seperation between UI and logic.
 
 The game can be played in a 8x8 board or 6x6 board.
 Each player has its color - Black/White.
