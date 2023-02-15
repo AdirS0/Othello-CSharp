@@ -1,0 +1,44 @@
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.exe.config
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.exe
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.exe
+C:\Users\hai84\Desktop\שנה ג סמסטר א\c#\מטלה 2\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.exe.config
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.exe
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.exe
+C:\Users\hai84\Desktop\מטלה 5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\project5\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\project5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\hai84\Desktop\project5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hai84\Desktop\project5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\project5\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll.config
+C:\Users\hai84\Desktop\project5\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll
+C:\Users\hai84\Desktop\project5\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.dll
+C:\Users\hai84\Desktop\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll.config
+C:\Users\hai84\Desktop\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll
+C:\Users\hai84\Desktop\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.pdb
+C:\Users\hai84\Desktop\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\hai84\Desktop\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hai84\Desktop\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.dll
+C:\Users\hai84\Desktop\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.pdb
+C:\Users\adir1\Desktop\לימודים\שנה ג\סמסטר א\C# .NET\Ex05\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll.config
+C:\Users\adir1\Desktop\לימודים\שנה ג\סמסטר א\C# .NET\Ex05\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll
+C:\Users\adir1\Desktop\לימודים\שנה ג\סמסטר א\C# .NET\Ex05\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.pdb
+C:\Users\adir1\Desktop\לימודים\שנה ג\סמסטר א\C# .NET\Ex05\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\adir1\Desktop\לימודים\שנה ג\סמסטר א\C# .NET\Ex05\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\adir1\Desktop\לימודים\שנה ג\סמסטר א\C# .NET\Ex05\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.dll
+C:\Users\adir1\Desktop\לימודים\שנה ג\סמסטר א\C# .NET\Ex05\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.pdb
+C:\Users\a.solomon\OneDrive - Align Technology, Inc\Desktop\לימודים\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll.config
+C:\Users\a.solomon\OneDrive - Align Technology, Inc\Desktop\לימודים\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.dll
+C:\Users\a.solomon\OneDrive - Align Technology, Inc\Desktop\לימודים\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\bin\Debug\Othello_Game_CSharp.pdb
+C:\Users\a.solomon\OneDrive - Align Technology, Inc\Desktop\לימודים\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.AssemblyReference.cache
+C:\Users\a.solomon\OneDrive - Align Technology, Inc\Desktop\לימודים\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\a.solomon\OneDrive - Align Technology, Inc\Desktop\לימודים\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.dll
+C:\Users\a.solomon\OneDrive - Align Technology, Inc\Desktop\לימודים\A23 Ex05 HaiElimelech 315942458 AdirSolomon 206825440\Othello_Game_CSharp\obj\Debug\Othello_Game_CSharp.pdb
